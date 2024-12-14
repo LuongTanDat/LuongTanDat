@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on IT
 - 📫 How to reach me FB : https://www.facebook.com/luongtandat9623
-- 😄 Pronouns: No
+- 😄 Pronouns: Sad
 - ⚡ Fun fact: No
 
 <!---
