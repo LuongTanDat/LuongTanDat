@@ -22,7 +22,7 @@
 
 ### 🛠️ Technologies I'm Exploring
 
-`Python` · `SQL` · `MongoDB` · `Git` · `GitHub` · `Pandas` · `Jupyter Notebook`
+`Python` · `SQL` · `Git` · `GitHub` · `Pandas` · `Jupyter Notebook`
 
 ### 🌱 Career Goals
 
